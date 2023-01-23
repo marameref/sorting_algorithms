@@ -1,7 +1,8 @@
-##0x1B. C - Sorting algorithms & Big O
-##All Tasks
+## 0x1B. C - Sorting algorithms & Big O
 
-** Task 0. Bubble sort
+## All Tasks
+
+. Task 0. Bubble sort
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
 ** Task 1. Insertion sort
