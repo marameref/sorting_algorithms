@@ -2,7 +2,7 @@
 
 ## All Tasks
 
-. Task 0. Bubble sort
+** Task 0. Bubble sort
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
 ** Task 1. Insertion sort
